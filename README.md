@@ -1,8 +1,3 @@
-# vuejs-registerform
-
-- [Demonstration on Youtube](https://youtu.be/PNgSjtqVQd8)
-
-
 ## Project setup
 ```
 npm install
